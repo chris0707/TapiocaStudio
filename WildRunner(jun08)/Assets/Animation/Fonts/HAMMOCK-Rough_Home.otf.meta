@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c8b0e17617042c04c8e3550acef41d00
+timeCreated: 1510772415
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HAMMOCK
+  fontNames:
+  - HAMMOCK
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 940a6ab56ea47f54dbcaa31a4e5aa657, type: 3}
+  - {fileID: 12800000, guid: 869e5e893cea6f04e9012c9f3cdb49a3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

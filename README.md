@@ -1,3 +1,2 @@
 # TapiocaStudio
-Android Studio
-An Android mobile game.
+An Android mobile game made using Android Studio.
